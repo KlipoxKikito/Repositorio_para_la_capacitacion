@@ -1,4 +1,13 @@
 def invertir_cadena(cadena):
-    return cadena[::-1]
+    """
+    Inverts the given string.
     
-    print(invertir_cadena("Hola mundo"))
+    Args:
+        cadena (str): The string to be inverted.
+    
+    Returns:
+        str: The inverted string.
+    """
+    return cadena[::-1]
+
+print(invertir_cadena("Marcos Villafañe"))
