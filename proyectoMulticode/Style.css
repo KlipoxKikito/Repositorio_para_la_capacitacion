@@ -137,3 +137,141 @@ h1 {
     text-align: center;
     animation: titleAnimation 2s infinite;
 }
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+@keyframes titleAnimation {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.2);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    animation: titleAnimation 2s infinite;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+@keyframes titleAnimation {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.2);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    animation: titleAnimation 2s infinite;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+@keyframes titleAnimation {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.2);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    animation: titleAnimation 2s infinite;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+@keyframes titleAnimation {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.2);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    animation: titleAnimation 2s infinite;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+@keyframes titleAnimation {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.2);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    animation: titleAnimation 2s infinite;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+@keyframes titleAnimation {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.2);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    animation: titleAnimation 2s infinite;
+}
